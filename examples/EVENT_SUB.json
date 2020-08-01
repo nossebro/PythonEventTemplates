@@ -1,0 +1,14 @@
+{
+	"event": "EVENT_SUB",
+	"data": {
+		"name": "nossebro",
+		"display_name": "nossebro",
+		"tier": "3",
+		"is_resub": true,
+		"months": 1,
+		"message": "",
+		"is_gift": false,
+		"is_mass_gift": false,
+		"gift_target": ""
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"event": "EVENT_CHEER",
+	"data": {
+		"name": "nossebro",
+		"display_name": "nossebro",
+		"bits": 1,
+		"total_bits": 1,
+		"message": "Cheer1"
+	}
+}
