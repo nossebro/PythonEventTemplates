@@ -1,0 +1,11 @@
+{
+    "event": "TWITCH_CHAT_V1",
+    "data": {
+        "display_name": "nossebro",
+        "user_id": 163324196,
+        "user_name": "nossebro",
+        "message": "This is a test message",
+        "action": "receive"
+    },
+    "version": "1.0"
+}

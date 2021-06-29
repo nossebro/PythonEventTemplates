@@ -1,0 +1,7 @@
+{
+    "event": "EVENT_FOLLOW",
+    "data": {
+        "name": "nossebro",
+        "display_name": "nossebro"
+    }
+}

@@ -2,18 +2,19 @@
 	"event": "TWITCH_SUB_V1",
 	"data": {
 		"user_name": "nossebro",
+        "user_id": 163324196,
 		"display_name": "nossebro",
 		"sub_type": "sub",
-		"sub_plan": "3000",
-		"sub_plan_name": "Channel Subscription (mr_woodchuck)",
-		"is_resub": true,
+		"sub_plan": 3000,
+		"sub_plan_name": "Channel Subscription (SpecsNStats)",
 		"cumulative_months": 1,
 		"streak_months": 1,
 		"message": "",
 		"is_gift": false,
-		"recipient_id": "",
+		"recipient_user_id": null,
 		"recipient_user_name": "",
 		"recipient_display_name": "",
 		"multi_month_duration": 0
-	}
+	},
+    "version": "1.0"
 }

@@ -1,0 +1,14 @@
+{
+	"event": "STREAMLABS_DONATION_V1",
+	"data": {
+		"user_id": 0,
+		"user_name": "nossebro",
+		"display_name": "nossebro",
+        "amount": 1.0000000000,
+        "formatted_amount": "$1.00",
+		"currency": "USD",
+        "source": "paypal",
+		"message": "This is my donation message"
+	},
+    "version": "1.0"
+}

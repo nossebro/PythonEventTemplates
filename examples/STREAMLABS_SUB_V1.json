@@ -1,0 +1,11 @@
+{
+	"event": "STREAMLABS_SUB_V1",
+	"data": {
+		"user_name": "nossebro",
+		"display_name": "nossebro",
+		"recipient_user_name": "",
+		"recipient_display_name": "",
+		"gift_type": "monthly"
+	},
+    "version": "0.0-alpha"
+}

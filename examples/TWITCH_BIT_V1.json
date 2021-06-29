@@ -2,11 +2,14 @@
     "event": "TWITCH_BIT_V1",
     "data": {
         "display_name": "nossebro",
-        "total_bits": 1,
-        "user_id": "163324196",
+        "user_id": 163324196,
         "user_name": "nossebro",
         "is_anonymous": false,
-        "bits": 1
+        "bits": 5,
+        "total_bits": 1003,
+        "message": "Cheer1 Cheer1 Cheer1 Cheer1 Cheer1",
+        "is_new_badge_tier": true,
+        "badge_tier": 1000
     },
     "version": "1.0"
 }

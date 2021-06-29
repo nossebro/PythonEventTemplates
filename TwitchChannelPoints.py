@@ -1,14 +1,16 @@
-from .CreateEventData import CreateEventData
+#!/usr/bin/env python2
+# -*- coding: utf-8 -*-
 
-def TwitchChannelPoints(data):
+from .CreateEventData import CreateEventData
+import logging
+logger = logging.getLogger(__name__)
+
+def TwitchChannelPoints(user_id, user_name, display_name, reward_id, cost, title, prompt=None, is_test=False, is_repeat=False):
+	data = locals().copy()
 	events = list()
-	data["user_name"] = data["user"]["login"]
-	data["display_name"] = data["user"]["display_name"]
-	data["user_id"] = data["user"]["id"]
-	data["reward_id"] = data["reward"]["id"]
-	data["cost"] = data["reward"]["cost"]
-	data["title"] = data["reward"]["title"]
-	data["prompt"] = data["reward"]["prompt"]
 	v1 = [ "user_name", "display_name", "user_id", "reward_id", "cost", "title", "prompt", "is_test", "is_repeat" ]
-	events.append({ "event": "TWITCH_REWARD_V1", "data": CreateEventData(v1, data), "version": "1.0" })
+	try:
+		events.append({ "event": "TWITCH_REWARD_V1", "data": CreateEventData(v1, data, LiteralEval=True), "version": "1.0" })
+	except KeyError as e:
+		logger.error(e)
 	return events

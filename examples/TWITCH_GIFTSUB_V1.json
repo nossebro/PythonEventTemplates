@@ -1,0 +1,14 @@
+{
+	"event": "TWITCH_GIFTSUB_V1",
+	"data": {
+		"user_id": 163324196,
+		"user_name": "nossebro",
+		"display_name": "nossebro",
+		"sub_plan": "3000",
+		"sub_type": "submysterygift",
+		"amount": 5,
+		"total": 4269,
+		"message": "nossebro is gifting 5 Tier 3 Subs to SpecsNStats's community! They've gifted a total of 4269 in the channel!"
+	},
+	"version": "1.0"
+}

@@ -1,0 +1,11 @@
+{
+    "event": "EVENT_DONATION",
+    "data": {
+        "userId": "nossebro",
+        "name": "nossebro",
+        "display_name": "nossebro",
+        "amount": "50.0000000000",
+        "currency": "SEK",
+        "message": "Message"
+    }
+}

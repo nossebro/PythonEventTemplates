@@ -1,0 +1,13 @@
+{
+	"event": "STREAMLABS_REDEEM_V1",
+	"data": {
+		"user_name": "nossebro",
+		"display_name": "nossebro",
+		"recipient_user_name": "",
+		"recipient_display_name": "",
+		"product": "T-shirt", 
+		"image": "https://uploads.twitchalerts.com/000/105/166/207/891265-mockup-152840970714082-0.png",
+		"message": "This is a test cloudbot redemption"
+	},
+    "version": "0.0-alpha"
+}

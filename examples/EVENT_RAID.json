@@ -1,0 +1,8 @@
+{
+    "event": "EVENT_RAID",
+    "data": {
+        "name": "nossebro",
+        "display_name": "nossebro",
+        "raiders": 50
+    }
+}

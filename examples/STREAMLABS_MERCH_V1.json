@@ -1,0 +1,11 @@
+{
+	"event": "STREAMLABS_MERCH_V1",
+	"data": {
+		"user_name": "nossebro",
+		"display_name": "nossebro",
+		"product": "T-shirt", 
+		"image": "https://uploads.twitchalerts.com/000/105/166/207/891265-mockup-152840970714082-0.png",
+		"condition": "MERCH_PRODUCT"
+	},
+    "version": "0.0-alpha"
+}

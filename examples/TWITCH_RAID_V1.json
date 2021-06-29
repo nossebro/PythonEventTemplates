@@ -1,0 +1,10 @@
+{
+    "event": "TWITCH_RAID_V1",
+    "data": {
+        "display_name": "nossebro",
+        "user_id": 163324196,
+        "user_name": "nossebro",
+        "raiders": 50
+    },
+    "version": "1.0"
+}
