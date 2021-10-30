@@ -1,7 +1,6 @@
 {
 	"event": "STREAMLABS_DONATION_V1",
 	"data": {
-		"user_id": 0,
 		"user_name": "nossebro",
 		"display_name": "nossebro",
         "amount": 1.0000000000,
